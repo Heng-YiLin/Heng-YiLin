@@ -14,24 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Welcome to Henry Lin's GitHub
+### 👋 Welcome to Henry Lin's GitHub
 
-I’m a final-year **Software Engineering student at The University of Queensland** passionate about brining ideas to life and making an impact to the world. When I'm not doing pest control or making dreams come true, I can be found experimenting with LLM models, 3d printing, bouldering, lifting weights and trying out new technology. 
+I’m a final-year **Software Engineering student at The University of Queensland** passionate about bringing ideas to life and making an impact in the world.  
+When I'm not doing pest control or making dreams come true, I’m usually experimenting with **LLMs**, **3D printing**, **bouldering**, **lifting weights**, or **trying out new tech**.
 
-🌱 Currently Working on:
-- **Fortus** <a href="https://fortus.fit/"> Fitness tracking redefined
-- **CausalGUI** - My final year thesis project
-- 
-🚀 Some of my projects include:
-- **Buddy** – A social app that helps immigrant parents connect *(🏆 UQ Innovation Diversity Prize)*
-- **FitQuest** – A full-stack fitness tracking app with AWS-hosted backend
+---
+
+### 🌱 Currently Working On
+- **[Fortus](https://fortus.fit/)** – Fitness tracking redefined  
+- **CausalGUI** – My final-year thesis project bridging qualitative and quantitative system analysis  
+
+---
+
+### 🚀 Some of My Projects
+- **Buddy** – A social app that helps immigrant parents connect *(🏆 UQ Innovation Diversity Prize)*  
+- **FitQuest** – A full-stack fitness tracking app with AWS-hosted backend  
 - **Fortus** – Improving UI/UX and component architecture as a React Native developer  
 
-📫 Reach me at **henrylin1207@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/hengyi-lin).  
+---
+
+### 📫 Get in Touch
+- **Email:** [henrylin1207@gmail.com](mailto:henrylin1207@gmail.com)  
+- **LinkedIn:** [hengyi-lin](https://www.linkedin.com/in/hengyi-lin)
+
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 <a href="https://github.com/Heng-YiLin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Heng-YiLin" />
-</a>
-<a href="https://github.com/Heng-YiLin/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heng-YiLin&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app
