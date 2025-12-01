@@ -39,15 +39,6 @@ When I'm not doing pest control or making dreams come true, I’m usually experi
 - **LinkedIn:** [hengyi-lin](https://www.linkedin.com/in/hengyi-lin)
 
 ---
-<a href="https://github.com/Heng-YiLin/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Heng-YiLin&show_icons=true&theme=transparent" />
-</a>
-
-<a href="https://github.com/Heng-YiLin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heng-YiLin&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-
----
 
 ### 🧰 Tech Stack
 
